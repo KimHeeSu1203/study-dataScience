@@ -14,4 +14,5 @@
 4. 캐글 실습으로 배우는 데이터 사이언스  ( kaggle_bike_sharping_demand 폴더 )
  ㄴ  https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-kaggle/dashboard  
 
-5. 오늘코드 numpy 
+5. 오늘코드 numpy  
+ ㄴ https://www.youtube.com/watch?v=ug3tz6WP7ZU&list=PLaTc2c6yEwmq1yBe7O_iianrYAwT8X2xz  
